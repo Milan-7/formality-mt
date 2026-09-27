@@ -1,0 +1,7 @@
+{
+  "n_both_labelled": 3219,
+  "agreement": 0.9953,
+  "cohens_kappa": 0.9907,
+  "coverage_official": 0.6867,
+  "coverage_lexical": 0.8985
+}

@@ -1,0 +1,9 @@
+cue,system,n_segments_with_cue,n_matched_with_cue,pct_sie_with_cue,pct_sie_without_cue
+please,Opus-MT,29,28,92.9,58.4
+please,NLLB-200 600M,29,29,96.6,44.0
+please,Qwen2.5 1.5B,29,20,80.0,38.2
+please,Qwen2.5 3B,29,23,95.7,39.4
+lol,Opus-MT,15,11,72.7,60.2
+lol,NLLB-200 600M,15,11,9.1,48.6
+lol,Qwen2.5 1.5B,15,7,0.0,41.2
+lol,Qwen2.5 3B,15,10,20.0,43.1

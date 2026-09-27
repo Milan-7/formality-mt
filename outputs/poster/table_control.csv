@@ -1,0 +1,5 @@
+system,prompt,matched_accuracy,n_matched,domain_chi2_p,cramers_v,chrF_controlled,chrF_uncontrolled_same_ref
+Qwen2.5 1.5B,formal,67.9,392,1.935112328057545e-06,0.259,49.4,47.2
+Qwen2.5 1.5B,informal,84.1,378,1.3341164179610651e-05,0.244,49.8,48.5
+Qwen2.5 3B,formal,96.7,422,0.1919039568335314,0.088,53.0,51.7
+Qwen2.5 3B,informal,96.8,407,7.715389453015036e-05,0.216,52.6,52.6
