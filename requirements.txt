@@ -1,0 +1,9 @@
+torch
+transformers==4.51.3
+accelerate
+sentencepiece
+sacrebleu>=2.3
+pandas
+numpy
+scipy
+matplotlib
